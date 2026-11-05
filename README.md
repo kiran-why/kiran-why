@@ -1,40 +1,23 @@
-<div align="center">
-
 ```
-  ██████  ██░ ██  ██░ ██
-▒██    ▒ ▓██░ ██▒▓██░ ██▒
-░ ▓██▄   ▒██▀▀██░▒██▀▀██░
-  ▒   ██▒░▓█ ░██ ░▓█ ░██
-▒██████▒▒░▓█▒░██▓░▓█▒░██▓
-▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒ ░░▒░▒
-░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░▒░ ░
-░  ░  ░   ░  ░░ ░ ░  ░░ ░
-      ░   ░  ░  ░ ░  ░  ░         
+$ fastfetch
+  ██████  ██░ ██  ██░ ██    kiran-why@shhware
+▒██    ▒ ▓██░ ██▒▓██░ ██▒   -----------------
+░ ▓██▄   ▒██▀▀██░▒██▀▀██░   OS:       Artix Linux (s6) / Void musl (runit)
+  ▒   ██▒░▓█ ░██ ░▓█ ░██    WM:       sway
+▒██████▒▒░▓█▒░██▓░▓█▒░██▓   Shell:    zsh
+▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒ ░░▒░▒   Terminal: foot
+░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░▒░ ░   Editor:   vim
+░  ░  ░   ░  ░░ ░ ░  ░░ ░   Font:     Fira Code + Symbols Nerd Font
+      ░   ░  ░  ░ ░  ░  ░   Langs:    sh, C (learning)
+                            Project:  Shh-dotfiles
+                            Contact:  kiranchick@proton.me
+                            Uptime:   up, quietly
 ```
-
-**kiran-why** · quiet software · learning C · on the way to low-level programming
-
-</div>
 
 ```console
-$ whoami
-kiran-why: I build quiet things for the terminal. No useless GUI.
-
-$ cat ~/.projects
-[x] Shh-dotfiles  quiet minimal Wayland (sway) setup, POSIX sh
-                  Artix (s6) and Void musl (runit)
-
 $ cat ~/.shhware
 no useless GUI . free . fast . quiet . minimal . few dependencies
 software that does its job and stays quiet
-
-$ ls ~/langs
-sh
-C (learning)
-
-$ finger kiran-why
-Contact:  kiranchick@proton.me
-
-$ uptime
-up, quietly
 ```
+
+**Project:** [Shh-dotfiles](https://github.com/kiran-why/Shh-dotfiles)
