@@ -29,7 +29,8 @@ no useless GUI . free . fast . quiet . minimal . few dependencies
 software that does its job and stays quiet
 
 $ ls ~/langs
-sh/   C/ (learning)
+sh
+C (learning)
 
 $ finger kiran-why
 Contact:  kiranchick@proton.me
