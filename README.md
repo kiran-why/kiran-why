@@ -2,12 +2,12 @@
 $ fastfetch
                             kiran-why@shhware
                             -----------------
-  ██████  ██░ ██  ██░ ██    OS:       Artix Linux (s6) / Void musl (runit)
+  ██████  ██░ ██  ██░ ██    OS:       KISS linux
 ▒██    ▒ ▓██░ ██▒▓██░ ██▒   WM:       sway
 ░ ▓██▄   ▒██▀▀██░▒██▀▀██░   Shell:    zsh
   ▒   ██▒░▓█ ░██ ░▓█ ░██    Terminal: foot
 ▒██████▒▒░▓█▒░██▓░▓█▒░██▓   Editor:   vim
-▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒ ░░▒░▒   Font:     Fira Code + Symbols Nerd Font
+▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒ ░░▒░▒   Font:     Fira Code + Symbols Nerd Fon
 ░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░▒░ ░   Langs:    sh, C (learning)
 ░  ░  ░   ░  ░░ ░ ░  ░░ ░   Projects: Shh-dotfiles
       ░   ░  ░  ░ ░  ░  ░   Contact:  kiranchick@proton.me
