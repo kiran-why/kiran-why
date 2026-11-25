@@ -1,23 +1,36 @@
-```
-$ fastfetch
-                            kiran-why@shhware
-                            -----------------
-  ██████  ██░ ██  ██░ ██    OS:       KISS linux
-▒██    ▒ ▓██░ ██▒▓██░ ██▒   WM:       sway
-░ ▓██▄   ▒██▀▀██░▒██▀▀██░   Shell:    zsh
-  ▒   ██▒░▓█ ░██ ░▓█ ░██    Terminal: foot
-▒██████▒▒░▓█▒░██▓░▓█▒░██▓   Editor:   vim
-▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒ ░░▒░▒   Font:     Fira Code + Symbols Nerd Fon
-░ ░▒  ░ ░ ▒ ░▒░ ░ ▒ ░▒░ ░   Langs:    sh, C (learning)
-░  ░  ░   ░  ░░ ░ ░  ░░ ░   Projects: Shh-dotfiles
-      ░   ░  ░  ░ ░  ░  ░   Contact:  kiranchick@proton.me
-                            Uptime:   up, quietly
-```
+<div align="center">
 
-```console
-$ cat ~/.shhware
-no useless GUI . free . fast . quiet . minimal . few dependencies
-software that does its job and stays quiet
-```
+<pre>
+         █▄        █▄
+         █▓▌       █▓▌
+   ▄▄██▄▐▓▓█░▄▓▄  ▐▓▓█░▄▓▄
+  ▓▓  ▀▀▐▒▒ ▀ ▀██ ▐▒▒ ▀ ▀██
+   ▀▀▀▄  ░░▌   ▐▓▌ ░░▌   ▐▓▌
+▐█▌  ░█░ ██▓  ▄██  ██▓  ▄██
+ █░▄██▀  ▐█▌  █▀   ▐█▌  █▀
+  ▀▀░     ▀    ▀    ▀    ▀
+</pre>
 
-**Projects:** [Shh-dotfiles](https://github.com/kiran-why/Shh-dotfiles)
+# kiran-why
+
+**Independent open-source developer**
+
+Linux & Unix enthusiast · Creator of [Shhware](https://shhware.org)
+
+*software that does its job and stays quiet.*
+
+</div>
+
+## Interests
+
+C/C++ · Rust · Linux · Open Source
+
+## Projects
+
+- [Shh-dotfiles](https://github.com/kiran-why/Shh-dotfiles)
+- [Shhware-utils](https://github.com/kiran-why/Shhware-utils)
+
+## Contact
+
+- [shhware.org](https://shhware.org)
+- [kiranchick@proton.me](mailto:kiranchick@proton.me)
