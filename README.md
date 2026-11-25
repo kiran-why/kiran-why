@@ -1,15 +1,10 @@
 <div align="center">
 
-<pre>
-         █▄        █▄
-         █▓▌       █▓▌
-   ▄▄██▄▐▓▓█░▄▓▄  ▐▓▓█░▄▓▄  ▀░▄▄            ▄██▄   ▀░▄▄     ▄▄█▄▄
-  ▓▓  ▀▀▐▒▒ ▀ ▀██ ▐▒▒ ▀ ▀██  ▐▒▌        ▓▓▌▀  ▀█▌   ▓▓▌▄▄  ▓█▀ ▀▓▓
-   ▀▀▀▄  ░░▌   ▐▓▌ ░░▌   ▐▓▌ ▐░░ ░▀█▄▄ ▐▒▒  ▄▄█▓█  ▐▒▒▀▄▓█▐▒▌  ▄▒▀
-▐█▌  ░█░ ██▓  ▄██  ██▓  ▄██   ██▄  ▓▒▌ ░░▌ ██▀ ▀▓▌ ░░▌ ▀░▀ ▀░░▀
- █░▄██▀  ▐█▌  █▀   ▐█▌  █▀     ░██▄░█░▄██  ▓█▄▄▒▒ ▀██       ▀█▄  ▄
-  ▀▀░     ▀    ▀    ▀    ▀       ▀▀ ░▀▀     ▀▀▀▀     ▀         ▀▀
-</pre>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./logo-light.svg">
+  <img alt="Shhware" src="./logo-light.svg" width="480">
+</picture>
 
 # kiran-why
 
